@@ -1,4 +1,4 @@
-selfdrivetheme
-==============
+DDN SelfDrive Theme
+  ==============
+Vehicle Rental System for WordPress
 
-WP Theme Development for Vehicle Rentasl System
