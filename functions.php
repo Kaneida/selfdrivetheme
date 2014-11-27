@@ -4,7 +4,7 @@
 * Do not modify unless you know what you're doing, SERIOUSLY!
 *************************************************************/
 
-/* BizzThemes WordPress theme framework by Zeljan Topic */
+/* SelfDrive WordPress theme framework by Zeljan Topic */
 
 //** DEFINE DIRECTORY CONSTANTS **//
 	
